@@ -27,6 +27,7 @@ el:
     erigon:
       branches:
         - main
+        - binary-trie
     ethrex:
       branches:
         - main
