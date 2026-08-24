@@ -1,2 +1,2 @@
 #!/bin/sh
-exec "${ENTRY}" "$@"
+exec "${ENTRY}" --verbosity=debug "$@"
